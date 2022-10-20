@@ -19,7 +19,8 @@ public class ActionExample {
 		a1.moveToElement(driver.findElement(By.id("nav-link-accountList-nav-line-1"))).contextClick().build().perform();
 	    WebElement val1 = 	driver.findElement(By.id("twotabsearchtextbox"));
 		a1.moveToElement(val1).click().keyDown(Keys.SHIFT).sendKeys("hello").doubleClick().build().perform();
-		
+		System.out.println("This is git demo");
+		System.out.println("Git connectivity");
 
 	}
 
