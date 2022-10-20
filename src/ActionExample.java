@@ -10,6 +10,11 @@ public class ActionExample {
 	public  void test1() {
 		System.out.println("Test1 method");
 	}
+	
+	public  void test2() {
+		System.out.println("Test1 method");
+	}
+
 
 
 	public static void main(String[] args) {
