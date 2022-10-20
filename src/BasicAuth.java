@@ -33,6 +33,8 @@ public class BasicAuth {
 		
 		driver.findElement(By.cssSelector("button[class='chakra-button css-157ld3s']")).click();
 		
+		System.out.println("Scuess Message");
+		
 		
 		
 		

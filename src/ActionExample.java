@@ -21,6 +21,7 @@ public class ActionExample {
 		a1.moveToElement(val1).click().keyDown(Keys.SHIFT).sendKeys("hello").doubleClick().build().perform();
 		System.out.println("This is git demo");
 		System.out.println("Git connectivity");
+		System.out.println("Git message");
 
 	}
 
